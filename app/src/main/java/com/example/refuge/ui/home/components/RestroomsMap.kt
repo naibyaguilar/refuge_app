@@ -32,7 +32,7 @@ fun RestroomMap(){
                 cameraPositionState.move(CameraUpdateFactory.newLatLng(sydney))
             }
         ) {
-            Text(text = "Animate camera to Sydney")
+            Text(text = "Simple Test")
         }
     }
 }
